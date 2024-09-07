@@ -35,7 +35,7 @@ The **Comprehensive E-commerce Platform** is a full-featured application that pr
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/ecommerce-project.git
+   git clone https://github.com/Nouran-Alaa/E-commerce-Website
    cd ecommerce-project
    ```
 
